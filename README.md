@@ -1,5 +1,6 @@
 <div align="center">Hi, I'm Riccardo!
-🎓 Student • Università degli Studi di Padova
+
+  🎓 Student • Università degli Studi di Padova
 </div>
 
 About Me
