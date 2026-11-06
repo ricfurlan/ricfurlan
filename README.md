@@ -6,6 +6,9 @@ About Me
 I'm currently a student, now working to obtain my BA in Sociology.
 
 <b>Languages</b>
+
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
 <b>Tools</b>
+
 [![My Skills](https://skillicons.dev/icons?i=latex,visualstudio)](https://skillicons.dev)
